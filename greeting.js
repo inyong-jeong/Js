@@ -14,7 +14,6 @@ function loadName() {
   const currntUser = localStorage.getItem(USER_LS);
   if (currntUser === null) {
     // she is not
-    ddd;
   } else {
     paintGreeting(currntUser);
   }
