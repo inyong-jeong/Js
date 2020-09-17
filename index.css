@@ -1,12 +1,21 @@
 body {
-  background-color: red;
+  background-color: white;
 }
-
-.form,
+.btn {
+  cursor: pointer;
+}
+.clicked {
+  color: gray;
+}
+.form {
+  display: none;
+}
+body {
+  color: black;
+}
 .greetings {
   display: none;
 }
-
 .showing {
   display: block;
 }
