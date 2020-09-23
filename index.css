@@ -12,6 +12,8 @@ body {
 }
 body {
   color: black;
+  text-align: center;
+  margin-top: 150px;
 }
 .greetings {
   display: none;
